@@ -1,0 +1,17 @@
+Some cmd commands:
+
+sfc scannow - 
+
+dir - lists the names of the files in the directory
+
+cd - goes to directory or backs out from it ( <cd..> )
+
+mkdir - creates new folder(s)
+	if you use "..." you can have spaces in the name. otherwise
+	just input new folder's name eg:
+	mkdir "New Folder"\"New SubFolder"
+	
+.. & ... - executes .. and then ...
+
+.. && ... - executes ... only if .. is executed
+
